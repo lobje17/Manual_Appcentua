@@ -5,4 +5,4 @@
 ## **Manual de usuario**
 
 ### **Opciones**
-- [Inicio de sesión](./views/Login.md)
+- [Inicio de sesión](./views/Login)
